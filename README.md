@@ -175,11 +175,11 @@ M.N. College, India · <i>March 2020 · GPA: 3.49</i>
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=csb3799&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=csb3799&theme=tokyonight&hide_border=true">
 </p>
 
 ---

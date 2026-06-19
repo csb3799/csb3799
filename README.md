@@ -1,44 +1,44 @@
-<h1 align="center">SHANMATHY RAVISANKARAN</h1>
-<h3 align="center">⚡ AI ENGINEER</h3>
+<h1 align="center">SUHANIBEN KRUPAL CHAUDHARI</h1>
+<h3 align="center">💼 BUSINESS ANALYST</h3>
 
 <p align="center">
-Designing intelligent systems that bridge the gap between raw data and production-ready AI.
+Bridging business strategy and technical solutions to drive data-driven decisions across financial services and healthcare.
 </p>
 
 ---
 
 <p align="center">
-<a href="mailto:shanmathyravisankaran03@gmail.com">
-<img src="https://img.shields.io/badge/Email-@gmail.com-red?style=for-the-badge&logo=gmail">
+<a href="mailto:csb.3599@gmail.com">
+<img src="https://img.shields.io/badge/Email-csb.3599@gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://github.com/shanmathy-ravisankaran">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+<a href="https://www.linkedin.com/in/suhani-chaudhari-713202408/">
+<img src="https://img.shields.io/badge/LinkedIn-Suhani_Chaudhari-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="tel:+18723687925">
+<img src="https://img.shields.io/badge/Phone-+1_872_368_7925-gray?style=for-the-badge&logo=phone">
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Location-Texas,USA-green?style=for-the-badge&logo=googlemaps">
+<img src="https://img.shields.io/badge/Location-Chicago,_IL,_USA-green?style=for-the-badge&logo=googlemaps">
 </a>
 </p>
 
 ---
 
-<h2 align="center">🧠 PROFESSIONAL SUMMARY</h2>
+<h2 align="center">🧑‍💼 PROFESSIONAL SUMMARY</h2>
 
 <p align="center">
-AI Engineer with hands-on experience designing <b>ML-ready data pipelines</b> and deploying <b>real-time inference systems</b> using Python, Flask, and SQL.
+Results-driven Business Analyst with <b>4+ years of experience</b> in <b>financial services and healthcare</b>, specializing in requirements elicitation, business process analysis, workflow documentation, and solution design.
 </p>
 
 <p align="center">
-Proven track record of improving data accuracy by <b>25%+</b> and reducing manual effort through automated workflows, feature engineering, and intelligent validation frameworks.
+Proven ability to translate business needs into functional specifications within <b>Agile and Waterfall</b> environments — improving reporting efficiency by <b>30%</b> and reducing manual effort by <b>25%</b>.
 </p>
 
 <p align="center">
-Experienced in <b>Multi-Agent Systems, RAG, LangGraph, LangChain, and OpenAI SDKs</b> — building production-ready AI solutions that enhance scalability and user insights.
+Skilled in <b>BRD/FRD documentation, stakeholder management, gap analysis, UAT coordination</b>, and data-driven decision-making using <b>SQL, Python, Power BI, and Tableau</b>. Strong domain expertise in <b>HIPAA, SOX, Basel III</b> compliance.
 </p>
 
 ---
@@ -47,99 +47,111 @@ Experienced in <b>Multi-Agent Systems, RAG, LangGraph, LangChain, and OpenAI SDK
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql">
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi">
-<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit">
+<img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r">
 
 <br>
 
-<img src="https://img.shields.io/badge/LangChain-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/CrewAI-darkblue?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenAI_SDK-black?style=for-the-badge&logo=openai">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white">
 
 <br>
 
-<img src="https://img.shields.io/badge/ChromaDB-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge">
-<img src="https://img.shields.io/badge/DuckDB-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/REST_APIs-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence">
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello">
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint">
 
 <br>
 
-<img src="https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=powerbi">
-<img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure">
-<img src="https://img.shields.io/badge/Snowflake-lightblue?style=for-the-badge">
+<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap">
+<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow">
+<img src="https://img.shields.io/badge/Alteryx-276DC3?style=for-the-badge">
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white">
+<img src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white">
 
 </p>
 
 <p align="center">
-<b>AI Capabilities:</b> Prompt Engineering • Function Calling • RAG • Guardrails • Multi-Agent Systems • Task Planning • Tool-Augmented Reasoning • AI Workflow Orchestration
+<b>BA Capabilities:</b> Requirements Gathering • GAP Analysis • SWOT Analysis • Risk Analysis • Cost-Benefit Analysis • Process Modeling • BRD/FRD • UAT • KPI Reporting
 </p>
 
 <p align="center">
-<b>Data & ML:</b> Pandas • NumPy • Scikit-learn • Feature Engineering • Embeddings • Semantic Search • Document Chunking • Similarity Search
+<b>Data & BI:</b> Data Analysis • Data Modeling • Process Mapping • ETL Validation • Dashboard Design • Stakeholder Management • Agile • Scrum • Waterfall • SDLC
 </p>
 
 ---
 
 <h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
 
-<h3>AI Engineer — Cognizant</h3>
-<p><b>Texas, USA | Feb 2026 – Present</b></p>
+<h3>Business Analyst — Morgan Stanley</h3>
+<p><b>USA | May 2025 – Present</b></p>
 
 <ul>
-<li>Designing and implementing <b>ML-ready data pipelines</b> using Python (Pandas, NumPy) to process simulation and survey data, improving feature availability for modeling by <b>30%</b>.</li>
-<li>Developing and optimizing <b>RESTful backend services using Flask</b> for real-time data ingestion and model inference workflows, reducing response latency.</li>
-<li>Performing advanced data preprocessing — missing value imputation, categorical encoding, and feature scaling — to enable reliable predictive model inputs.</li>
-<li>Building <b>rule-based and ML-assisted validation mechanisms</b>, reducing data inconsistencies and improving system accuracy by <b>25%</b>.</li>
-<li>Collaborating with product managers and engineering teams to translate business requirements into measurable <b>KPIs and AI-driven insights</b>.</li>
+<li>Gathered and documented business requirements (BRD, FRD, user stories) collaborating with traders, risk managers, and compliance teams — ensuring alignment with <b>SEC & FINRA</b> regulatory standards.</li>
+<li>Analyzed large financial datasets (trade transactions, market data, client portfolios) using <b>SQL and Excel</b> to identify patterns and risk indicators to support decision-making.</li>
+<li>Defined KPIs and risk metrics (<b>VaR, PnL, trade anomalies</b>) to monitor trading behavior and improve risk visibility.</li>
+<li>Facilitated <b>Agile ceremonies</b> (sprint planning, backlog grooming, daily stand-ups) and worked closely with cross-functional teams to ensure timely delivery.</li>
+<li>Created data mapping documents and process flow diagrams (<b>UML, BPMN</b>) to translate business requirements into technical specifications.</li>
+<li>Collaborated with data engineering teams to validate <b>ETL pipelines</b> and ensure accurate data transformation and integration.</li>
+<li>Developed interactive <b>Power BI dashboards</b> to visualize trade activity, risk exposure, and compliance metrics — improving reporting efficiency by <b>30%</b>.</li>
+<li>Performed <b>UAT</b>, created test cases, and ensured delivered solutions met business requirements with a <b>95% defect resolution rate</b>.</li>
+<li>Identified process improvement opportunities, <b>reducing manual reporting efforts by 25%</b> and improving operational efficiency.</li>
 </ul>
 
 ---
 
-<h3>Application Development Analyst — Accenture</h3>
-<p><b>India | May 2021 – Dec 2023</b></p>
+<h3>Business Analyst — HCL Tech</h3>
+<p><b>India | Feb 2021 – Aug 2024</b></p>
 
 <ul>
-<li>Analyzed <b>large-scale telecom datasets (millions of records)</b> using SQL and Python for proactive monitoring of network performance and SLA adherence.</li>
-<li>Designed <b>enterprise-grade Power BI dashboards</b> using DAX and Power Query, improving reporting efficiency by <b>30%</b>.</li>
-<li>Engineered end-to-end <b>automation pipelines</b> for data extraction, validation, and reporting — eliminating manual work and saving <b>14+ hours/week</b>.</li>
-<li>Led root-cause analysis of production incidents achieving a <b>95% resolution rate</b> within SLA.</li>
-<li>Partnered across engineering, QA, and operations to define scalable KPIs and implement data quality frameworks.</li>
+<li>Defined and implemented a product analytics strategy, tracking key user engagement metrics: <b>DAU, MAU, retention rate, session duration, and feature adoption</b>.</li>
+<li>Collaborated with data science teams to define <b>ML-driven personalization</b> use cases, including targeted patient reminders and recommendation systems.</li>
+<li>Developed <b>KPI frameworks and success metrics</b>, aligning business objectives with measurable indicators such as patient retention, conversion rate, and digital adoption.</li>
+<li>Conducted detailed <b>AS-IS vs TO-BE gap analysis</b> of patient engagement workflows, identifying inefficiencies in appointment booking, onboarding, and follow-up processes.</li>
+<li>Implemented event tracking and user behavior analytics using <b>Google Analytics and Mixpanel</b>, capturing clickstream data for deeper behavioral insights.</li>
+<li>Conducted <b>root cause analysis (RCA)</b> on user churn and low engagement areas, driving product enhancements that <b>improved conversion rates by 25%</b>.</li>
+<li>Translated complex data insights into actionable business recommendations, influencing product roadmap, feature prioritization, and stakeholder decision-making.</li>
+<li>Utilized advanced Excel functions (<b>VLOOKUP, INDEX-MATCH, XLOOKUP</b>) to merge and analyze patient engagement data from multiple sources.</li>
+<li>Monitored post-deployment performance metrics, ensuring continuous improvement through iterative analysis, feedback loops, and optimization strategies.</li>
 </ul>
 
 ---
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-<h3>🧴 Cosmetic Chemical Intelligence AI Assistant</h3>
-<p><b>Jan 2026 – Feb 2026</b></p>
+<h3>📊 Financial Risk Dashboard — Morgan Stanley</h3>
+<p><b>2025 – Present</b></p>
 <ul>
-<li>Built a <b>RAG-based AI assistant</b> converting cosmetic ingredient datasets into embeddings stored in a <b>Chroma vector database</b> for semantic search.</li>
-<li>Developed a <b>Streamlit interface</b> using <b>OpenAI embeddings and GPT-4o-mini</b> to answer ingredient safety, brand, and product queries.</li>
-<li>Implemented data validation, duplicate detection, and explainable outputs for reliable cosmetic safety insights.</li>
+<li>Built an interactive <b>Power BI dashboard</b> consolidating trade activity, PnL, VaR, and compliance metrics across multiple desks.</li>
+<li>Defined risk KPI logic and data mapping from raw trade data to dashboard visualizations using <b>SQL and Power Query</b>.</li>
+<li>Reduced manual compliance reporting effort by <b>25%</b> and improved visibility for risk managers and senior stakeholders.</li>
 </ul>
 
 ---
 
-<h3>🤖 SouthStar AI Copilot</h3>
-<p><b>Dec 2025 – Jan 2026</b></p>
+<h3>🏥 Patient Engagement Analytics Platform — HCL Tech</h3>
+<p><b>2021 – 2024</b></p>
 <ul>
-<li>Built an <b>internal AI Copilot</b> using Streamlit, LangChain, OpenAI, and Chroma to answer employee policy and compliance questions.</li>
-<li>Developed a <b>document ingestion pipeline</b> that parses PDFs, chunks content, generates embeddings, and retrieves grounded responses.</li>
-<li>Implemented related-question generation, chat session flow, and feedback logging to improve AI response quality.</li>
+<li>Designed and tracked a comprehensive engagement analytics framework using <b>Google Analytics and Mixpanel</b> for a healthcare product.</li>
+<li>Performed <b>AS-IS vs TO-BE gap analysis</b> across appointment and onboarding workflows, identifying key drop-off points.</li>
+<li>Delivered data-driven product recommendations that drove a <b>25% improvement in conversion rates</b>.</li>
 </ul>
 
 ---
 
-<h2 align="center">🤖 AI EXPERTISE</h2>
+<h2 align="center">📋 BA EXPERTISE</h2>
 
 <p align="center">
-Multi-Agent Systems • Retrieval-Augmented Generation (RAG) • Prompt Engineering • Function Calling  
-AI Workflow Orchestration • Task Planning • Tool-Augmented Reasoning • Semantic Search  
-Vector Databases • LLM Fine-Tuning • Guardrails • Embeddings • Real-Time Inference
+Business Requirements Documentation (BRD/FRD) • User Stories • Use Cases • Process Flow Diagrams (UML/BPMN)<br>
+GAP Analysis • SWOT Analysis • Risk Analysis • Cost-Benefit Analysis • Root Cause Analysis<br>
+UAT Coordination • KPI Reporting • Stakeholder Management • Agile/Scrum • Regulatory Compliance (HIPAA · SOX · Basel III)
 </p>
 
 ---
@@ -148,29 +160,13 @@ Vector Databases • LLM Fine-Tuning • Guardrails • Embeddings • Real-Time
 
 <p align="center">
 
-<b>Master of Science – Information Technology & Management</b><br>
-The University of Texas at Dallas, USA
+<b>Master of Science — Business Analytics</b><br>
+DePaul University, Chicago, IL, USA · <i>Expected June 2026</i>
 
 <br><br>
 
-<b>Bachelor of Engineering – Electronics and Instrumentation Engineering</b><br>
-Anna University, India
-
-</p>
-
----
-
-<h2 align="center">📜 CERTIFICATIONS</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SnowPro-Associate_Platform-29B5E8?style=for-the-badge&logo=snowflake">
-
-<img src="https://img.shields.io/badge/Power_BI-Data_Analyst_Associate_(PL--300)-F2C811?style=for-the-badge&logo=powerbi">
-
-<img src="https://img.shields.io/badge/Azure-Administrator_Associate_(AZ--104)-0089D6?style=for-the-badge&logo=microsoftazure">
-
-<img src="https://img.shields.io/badge/Azure-Fundamentals_(AZ--900)-0089D6?style=for-the-badge&logo=microsoftazure">
+<b>Bachelor of Science — Mathematics</b><br>
+M.N. College, India · <i>March 2020 · GPA: 3.49</i>
 
 </p>
 
@@ -179,11 +175,11 @@ Anna University, India
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shanmathy-ravisankaran&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmathy-ravisankaran&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -192,18 +188,15 @@ Anna University, India
 
 <p align="center">
 
-<b>Email:</b> shanmathyravisankaran03@gmail.com
-
-<b>Location:</b> Texas, USA
-
-<b>GitHub:</b> https://github.com/shanmathy-ravisankaran
-
-<b>Portfolio:</b> https://shanmathy-ravisankaran.github.io/portfolio/
+<b>Email:</b> csb.3599@gmail.com<br>
+<b>Phone:</b> +1 872 368 7925<br>
+<b>Location:</b> Chicago, IL, USA<br>
+<b>LinkedIn:</b> https://www.linkedin.com/in/suhani-chaudhari-713202408/
 
 </p>
 
 ---
 
 <p align="center">
-    <i>Building AI systems that are not just intelligent — but reliable, scalable, and production-ready.</i>
+    <i>Turning complex business problems into clear, data-driven solutions — one requirement at a time.</i>
 </p>

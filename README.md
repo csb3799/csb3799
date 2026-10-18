@@ -75,16 +75,6 @@ India · February 2021 – August 2024
 - Bachelor of Science in Mathematics — Hemchandracharya North Gujarat University, India · 2020
 🎯 Areas of Interest
 Supply Chain Analytics · Demand Forecasting · Inventory Optimization · Transportation Analytics · Business Intelligence · Warehouse Performance · Reporting Automation
-📊 GitHub Insights
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=default&title_color=163A5F&icon_color=2878A8" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=default&title_color=163A5F" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=default&ring=2878A8&fire=2878A8&currStreakLabel=163A5F" alt="GitHub contribution streak" />
-</p>
-
 🤝 Let's Connect
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>

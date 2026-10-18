@@ -6,7 +6,6 @@
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:suhanibenkrupal@myjobstech.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/csb3799"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=csb3799&label=Profile%20Views&color=2878A8&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -125,10 +124,6 @@ I'm a **Supply Chain Analyst** with 4+ years of experience across transportation
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=csb3799&hide_border=true&background=0D1117&ring=2878A8&fire=2878A8&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=csb3799&bg_color=0D1117&color=2878A8&line=2878A8&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---

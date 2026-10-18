@@ -85,6 +85,3 @@ Supply Chain Analytics · Demand Forecasting · Inventory Optimization · Transp
   <i>Using analytics to build more efficient, resilient, and data-driven supply chains.</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:163A5F,100:2878A8&height=70&section=footer" width="100%" />
-</p>

@@ -1,4 +1,4 @@
-# 🌈 Hey there! I'm Suhaniben Krupal Chaudhari 👋
+# Hey there! I'm Suhaniben Krupal Chaudhari 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=Turning%20Data%20Into%20Impact&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
